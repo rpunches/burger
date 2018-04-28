@@ -10,4 +10,4 @@ burger_name varchar
     devoured boolean
 PRIMARY KEY
     (id)   
-)
+);
